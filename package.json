@@ -1,0 +1,19 @@
+{
+  "name": "node-calculator",
+  "version": "1.0.0",
+  "description": "My first implementation of a calculator using Nodejs.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mridle582/node-calculator.git"
+  },
+  "author": "James Finn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mridle582/node-calculator/issues"
+  },
+  "homepage": "https://github.com/mridle582/node-calculator#readme"
+}

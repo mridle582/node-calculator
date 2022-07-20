@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mridle582/node-calculator/issues"
   },
-  "homepage": "https://github.com/mridle582/node-calculator#readme"
+  "homepage": "https://github.com/mridle582/node-calculator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
